@@ -1,9 +1,4 @@
-<p align="center">
-  <img src="assets/brand/icon0.png" alt="Overburden Vita" width="128">
-</p>
-<p align="center">
-  <img src="assets/brand/livearea-bg0.png" alt="Overburden Vita LiveArea" width="70%">
-</p>
+<img width="3840" height="1732" alt="VitaLayout" src="https://github.com/user-attachments/assets/952cf903-9e83-45bf-9022-43f0a3d0fdda" />
 
 <p align="center">
   An experimental, unofficial port of <a href="https://notsospecialgames.itch.io/overburden"><strong>Overburden</strong></a> for PlayStation Vita.
